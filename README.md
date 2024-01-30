@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogc1231&" alt="ogc1231" /></p>
 
+## Project Screenshots
+<img src="https://github.com/ogc1231/comprehensible-spanish-frontend/blob/main/documentation/readme-assets/mockup.PNG" width="256" />  
