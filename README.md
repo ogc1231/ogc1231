@@ -9,6 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogc1231&show_icons=true&locale=en&layout=compact" alt="ogc1231" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogc1231&show_icons=true&locale=en" alt="ogc1231" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogc1231&" alt="ogc1231" /></p>
-
-## Project Screenshots
-<img src="https://github.com/ogc1231/comprehensible-spanish-frontend/blob/main/documentation/readme-assets/mockup.PNG" width="18%" /> <img src="https://github.com/ogc1231/sound-burger/blob/main/documentation/screenshots/mockup.PNG" width="18%" /> <img src="https://github.com/ogc1231/puzzle-pyramid/blob/main/documentation/testing/mockup.PNG" width="18%" /> <img src="https://github.com/ogc1231/sample-pad/blob/main/documentation/testing/preview.png" width="18%" /> <img src="https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG" width="18%" />  
