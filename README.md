@@ -3,9 +3,7 @@
 <a href="https://linkedin.com/in/olivercraigie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivercraigie" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **Typescript & AWS Cloud**
-  
-- 🔭 I’m currently working on the Scrimba's The AI Engineer Path
+- 🌱 I’m currently learning/working on **Typescript & Scrimba's The AI Engineer Path**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogc1231](https://github.com/ogc1231)
 
