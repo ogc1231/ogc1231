@@ -4,7 +4,7 @@
 </p>
 
 - 🌱 I’m currently learning **Typescript & AWS Cloud**
-- 
+  
 - 🔭 I’m currently working on the Scrimba's The AI Engineer Path
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogc1231](https://github.com/ogc1231)
