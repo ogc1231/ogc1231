@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm I'm Oliver Craigie</h1>
 <h3 align="center">A passionate full-stack develvoper</h3>
 
+
 - 🌱 I’m currently learning/working on **Typescript & Scrimba's The AI Engineer Path**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogc1231](https://github.com/ogc1231)
