@@ -8,7 +8,7 @@
 
 :incoming_envelope: **Contact Me**
 
-[![Gmail Badge](https://img.shields.io/badge/-pavlo.myskov@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=c14438&link=mailto:oliver.craigie1@gmail.com)](mailto:oliver.craigie1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-oliver.craigie1@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=c14438&link=mailto:oliver.craigie1@gmail.com)](mailto:oliver.craigie1@gmail.com)
 
 [<img src='https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=20&labelColor=0077B5' alt='LinkedIn'>](https://linkedin.com/in/olivercraigie)
 
