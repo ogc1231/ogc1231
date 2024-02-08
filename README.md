@@ -84,6 +84,8 @@
   </tr>
 </table>
 
+<h2 align='center'> &#128187; Hackathons</h2>
+
 | Name | Hackathon | Certificate |
 | :---: | :---: | :---: |
 | Christmas Quiz Game - Secret Santa: A Holiday Hackathon  | <a href="https://github.com/ogc1231/festive-quiz-game"><img src="https://github.com/ogc1231/festive-quiz-game/blob/main/documentation/readme/quiz-game-responsiveness.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/skbZpwV6RROJtSlhf33v9Q"><img src="https://eu.badgr.com/public/assertions/skbZpwV6RROJtSlhf33v9Q/image"></a> |
