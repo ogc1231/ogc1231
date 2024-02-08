@@ -19,3 +19,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogc1231&show_icons=true&locale=en&layout=compact" alt="ogc1231" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogc1231&show_icons=true&locale=en" alt="ogc1231" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogc1231&" alt="ogc1231" /></p>
+
+<h2 align='center'> &#x1F4BC; Projects</h2>
+
+- #### [Comprehensible Spanish Resources](https://github.com/ogc1231/comprehensible-spanish-frontend)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ogc1231/comprehensible-spanish-frontend"><img width="900" src="https://github.com/ogc1231/comprehensible-spanish-frontend/blob/main/documentation/readme-assets/mockup.PNG" alt="Comprehensible Spanish Resources Mockup"></a>
+    </td>
+    <td>
+      Comprehensible Spanish Resources is a place where Spanish learners can find Comprehensible Spanish content that suits their needs whatever their level. It features a React.js front-end and a Django REST framework back-end.
+    </td>
+  </tr>
+</table>
+
