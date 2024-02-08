@@ -1,3 +1,5 @@
+![Header](./[https://github.com/ogc1231/ogc1231/blob/main/github-header-image.png])
+
 <h1 align="center">Welcome to my Profile!</h1>
 <h3 align="center">A passionate full-stack develvoper, based in Dublin, Ireland</h3>
 
