@@ -50,7 +50,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ogc1231/puzzle-pyramid"><img width="900" src="https://github.com/ogc1231/puzzle-pyramid/blob/main/documentation/testing/mockup.PNG" alt="Puzzle Pyramid Mockup"></a>
+      <a href="https://github.com/ogc1231/puzzle-pyramid"><img width="900" src="https://github.com/ogc1231/puzzle-pyramid/blob/main/documentation/testing/mockup.PNG" alt="Puzzle Pyramid Mockup">
+      </a>
     </td>
     <td>
       Puzzle Pyramid is Python CLI terminal adventure/puzzle game, It follows the story of a person who arrives in Cairo to explore a mysterious pyramid. The game contains storyline narrative, Quiz questions and the game of Rock, Paper, Scissors.
@@ -74,7 +75,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ogc1231/sushi-cult-restaurant"><img width="900" src="https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG" alt="Sushi Cult Mockup"></a>
+      <a href="https://github.com/ogc1231/sushi-cult-restaurant"><img width="900" src="https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG" alt="Sushi Cult Mockup">
+      </a>
     </td>
     <td>
       Sushi Cult, is fully responsive HTML/CSS Static website for a high-end sushi resturant, providing information about the restaurant including the story behind the restaurant and the food to potential and returning customers. If also functions as a tool to convert web traffic into new table bookings and members the sushi club cooking masterclasses.
@@ -82,3 +84,6 @@
   </tr>
 </table>
 
+| Name | Hackathon | Certificate |
+| :---: | :---: | :---: |
+| Christmas Quiz Game - Secret Santa: A Holiday Hackathon  | <a href="https://github.com/ogc1231/festive-quiz-game"><img src="https://github.com/ogc1231/festive-quiz-game/blob/main/documentation/readme/quiz-game-responsiveness.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/skbZpwV6RROJtSlhf33v9Q"><img src="https://eu.badgr.com/public/assertions/skbZpwV6RROJtSlhf33v9Q/image"></a> |
