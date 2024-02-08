@@ -75,7 +75,7 @@
       <a href="https://github.com/ogc1231/sushi-cult-restaurant"><img width="900" src="https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG" alt="Sushi Cult Mockup"></a>
     </td>
     <td>
-      Sushi Cult, is fully responsive HTML/CSS Static website for a high-end sushi resturant. 
+      Sushi Cult, is fully responsive HTML/CSS Static website for a high-end sushi resturant, providing information about the restaurant including the story behind the restaurant and the food to potential and returning customers. If also functions as a tool to convert web traffic into new table bookings and members the sushi club cooking masterclasses.
   </tr>
 </table>
 
