@@ -1,10 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Oliver Craigie</h1>
+<h1 align="center">Welcome to my Profile!</h1>
 <h3 align="center">A passionate full-stack develvoper, based in Dublin, Ireland</h3>
 
+Hi there 👋
 
-- 🌱 I’m currently learning/working on **Typescript**
+I'm Oliver Craigie, a Full Stack Developer with a strong foundation in many modern technologies, including programming languages such as Python(Django, Django REST framework) and JavaScript(React.js), database development(SQL, Django ORM, SQLAlchemy), frontend development with CSS(Sass, Bootstrap), HTML, unit testing, CI/CD.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ogc1231](https://github.com/ogc1231)
+I'm recently graduated from the Code Institute's Diploma in Full Stack Software Development with a distincion grade. 
+
+I am always open to new challenges and opportunities, I'm currently learning TypeScript.
+
+Thank you for visiting my profile! If you have any questions or suggestions, please feel free to contact me.
 
 :incoming_envelope: **Contact Me**
 
