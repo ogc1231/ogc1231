@@ -8,11 +8,11 @@ Hi there 👋
 
 I'm Oliver Craigie, a Full Stack Developer with a strong foundation in many modern technologies and languages, such as Javascript, React.js, Python, Django, Django REST, Boostrap, Bulma and more.
 
-I'm recently graduated from the Code Institute's Diploma in Full Stack Software Development with a distincion grade. 
+I recently graduated from the Code Institute's Diploma in Full Stack Software Development with a distincion grade. 
 
 I am always open to new challenges and opportunities in the insdustry.
 
-I'm currently developing my skills further in React.js and learning TypeScript.
+I'm currently developing my skills further in React.js and TypeScript.
 
 Thank you for visiting my profile! If you have any questions or suggestions, please feel free to contact me.
 
