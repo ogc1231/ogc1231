@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Profile!</h1>
+<h1 align="center">Oliver Craigie</h1>
 <h3 align="center">A passionate full-stack develvoper, based in Dublin, Ireland</h3>
 
 Hi there 👋
