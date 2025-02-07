@@ -69,9 +69,3 @@
 | Name | Hackathon | Certificate |
 | :---: | :---: | :---: |
 | Christmas Quiz Game - Secret Santa: A Holiday Hackathon  | <a href="https://github.com/ogc1231/festive-quiz-game"><img src="https://github.com/ogc1231/festive-quiz-game/blob/main/documentation/readme/quiz-game-responsiveness.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/skbZpwV6RROJtSlhf33v9Q"><img src="https://eu.badgr.com/public/assertions/skbZpwV6RROJtSlhf33v9Q/image"></a> |
-
-<h2 align='center'>&#x1f4c8; GitHub Stats</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogc1231&show_icons=true&locale=en&layout=compact" alt="ogc1231" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogc1231&show_icons=true&locale=en" alt="ogc1231" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogc1231&" alt="ogc1231" /></p>
